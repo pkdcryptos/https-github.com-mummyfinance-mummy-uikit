@@ -2082,7 +2082,7 @@ var links = [
         ],
     },
 ];
-var socials = [
+export var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
