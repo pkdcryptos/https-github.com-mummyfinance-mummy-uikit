@@ -2139,10 +2139,10 @@ var socials = [
             //   label: "Français",
             //   href: "https://t.me/pancakeswapfr",
             // },
-            {
+            /* {
                 label: "Announcements",
                 href: "https://t.me/MummyFinance",
-            },
+            }, */
         ],
     },
     {
