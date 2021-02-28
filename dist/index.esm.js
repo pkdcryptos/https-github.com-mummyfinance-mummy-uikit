@@ -2055,7 +2055,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/MummyFinance",
+        href: "https://twitter.com/FinanceMummy",
     },
 ];
 var MENU_HEIGHT = 64;
